@@ -1,1 +1,5 @@
-Start 2020-04-27 16:00  Koniec 2020-04-27 20:00 - Zaczalem od zapoznania sie z czterema pierwszymi zagadnieniami czesci teoretycznej  VSS,Deduplikacja,kompresja danych oraz szyfrowanie. 
+Start 2020-04-27 16:00  Koniec 2020-04-27 20:00 - Zaczalem od zapoznania sie z czterema pierwszymi zagadnieniami czesci teoretycznej  VSS,Deduplikacja,kompresja danych oraz szyfrowanie.
+
+Start 2020-04-28 11:50  Koniec 2020-04-28 16:50 - Opracowanie takich zagadnien jak retencja plikow,backupy(pelne,przyrostowe,roznicowe) ,wykonywanie backupow na prawach uzykownika 
+                                                  ,zmienne systemowe ,harmonogram (systemowy oraz aplikacij (xopero software) oraz pliki ukryte.
+ 

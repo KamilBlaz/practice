@@ -1,0 +1,1 @@
+Start 2020-04-27 16:00  Koniec 2020-04-27 20:00 - Zaczalem od zapoznania sie z czterema pierwszymi zagadnieniami czesci teoretycznej  VSS,Deduplikacja,kompresja danych oraz szyfrowanie. 

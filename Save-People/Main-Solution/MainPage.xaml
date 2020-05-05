@@ -40,9 +40,9 @@
 
         </Grid.RowDefinitions>
 
-        <Button x:Name="startButton" Content="START " Grid.Row="2" HorizontalAlignment="Center" FontSize="16">
+        <Button x:Name="startButton" Content="START " Grid.Row="2" HorizontalAlignment="Center" FontSize="30" Click="startButton_Click" BorderBrush="#FF272323">
             <Button.Background>
-                <SolidColorBrush Color="{ThemeResource SystemAltMediumHighColor}"/>
+                <SolidColorBrush Color="{ThemeResource SystemAccentColorLight3}"/>
             </Button.Background>
             <Button.Foreground>
                 <SolidColorBrush Color="{ThemeResource SystemChromeAltHighColor}"/>
@@ -50,7 +50,7 @@
         </Button>
 
 
-        <ProgressBar Grid.Column="1" Grid.Row="2" Height="20">
+        <ProgressBar x:Name="progressBar" Grid.Column="1" Grid.Row="2" Height="20">
             <ProgressBar.Background>
                 <SolidColorBrush Color="{ThemeResource SystemColorHighlightTextColor}"/>
             </ProgressBar.Background>
@@ -99,7 +99,7 @@
                        FontFamily="Arial Black" 
                        FontSize="100" Canvas.Left="312" Canvas.Top="220"
                        />
-            <Rectangle Height="50" Canvas.Left="856" Stroke="Black" Canvas.Top="152" Width="50">
+            <Rectangle x:Name="target" Height="50" Canvas.Left="856" Stroke="Black" Canvas.Top="152" Width="50">
                 <Rectangle.Fill>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <GradientStop Color="Black"/>

@@ -110,8 +110,7 @@
                        FontWeight="Bold"
                        FontFamily="Arial Black" 
                        FontSize="100" Canvas.Left="312" Canvas.Top="220"
-                       />
-            <Rectangle x:Name="target" Height="50" Canvas.Left="856" Stroke="Black" Canvas.Top="152" Width="50" PointerEntered="target_PointerEntered">
+
                 <Rectangle.Fill>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <GradientStop Color="Black"/>

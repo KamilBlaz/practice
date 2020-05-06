@@ -7,3 +7,4 @@ Start 2020-04-29 12:00  Koniec 2020-04-29 18:00 - Opracowałem ostatnich 6 zagad
 
 Start 2020-04-30 12:00  Koniec 2020-04-30 18:00 - Opracowałem cała   drugą część teoretyczną
 Start 2020-05-04 12:00  Koniec 2020-05-04 18:00 - Opracowałem cała   trzecia część teoretyczną
+Start 2020-05-05 12:00  Koniec 2020-05-05 18:00 - Aplikacja C# - Ratuj ludzi 

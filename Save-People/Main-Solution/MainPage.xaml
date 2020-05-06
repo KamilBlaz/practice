@@ -10,19 +10,36 @@
     <Page.Resources>
         <ControlTemplate x:Key="EnemyTemplate" TargetType="ContentControl">
             <Grid>
-                <Ellipse Height="100" Stroke="Black" Width="100" Margin="-10,-50,10,50">
-                    <Ellipse.Fill>
-                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                            <GradientStop Color="Black"/>
-                            <GradientStop Color="#FF09F03D" Offset="1"/>
-                        </LinearGradientBrush>
-                    </Ellipse.Fill>
+                <Ellipse Fill="Gray" Height="100" Stroke="Black" Width="75" Margin="-10,-50,10,50">
+
+                </Ellipse>
+                <Ellipse  HorizontalAlignment="Center" Height="35" Margin="40,20,70,0" Stroke="Black" VerticalAlignment="Top" Width="25" RenderTransformOrigin="0.5,0.5" Fill="Black">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform SkewX="10"/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+            </Grid>
+        </ControlTemplate>
+        <ControlTemplate x:Key="enemyTemplate" TargetType="ContentControl">
+            <Grid Width="100">
+                <Ellipse Fill="Gray" Height="100" Stroke="Black" Width="75">
+
+                </Ellipse>
+                <Ellipse Fill="Black" HorizontalAlignment="Left" Height="35" Margin="18,21,0,0" Stroke="Black" VerticalAlignment="Top" Width="25" RenderTransformOrigin="-1.18,0.214" UseLayoutRounding="False" d:LayoutRounding="Auto">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform SkewX="10" ScaleX="1.005" ScaleY="1" SkewY="1.717" TranslateX="-0.157" TranslateY="-0.889"/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse Fill="Black" HorizontalAlignment="Left" Height="35" Margin="58,21,0,0" Stroke="Black" VerticalAlignment="Top" Width="25" RenderTransformOrigin="-1.18,0.214" UseLayoutRounding="False" d:LayoutRounding="Auto">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform SkewX="-10"/>
+                    </Ellipse.RenderTransform>
                 </Ellipse>
             </Grid>
         </ControlTemplate>
     </Page.Resources>
 
-    <Grid Background="Black">
+    <Grid x:Name="grid" Background="Black">
 
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="160"/>
@@ -40,9 +57,9 @@
 
         </Grid.RowDefinitions>
 
-        <Button x:Name="startButton" Content="START " Grid.Row="2" HorizontalAlignment="Center" FontSize="16">
+        <Button x:Name="startButton" Content="START " Grid.Row="2" HorizontalAlignment="Center" FontSize="30" Click="startButton_Click" BorderBrush="#FF272323">
             <Button.Background>
-                <SolidColorBrush Color="{ThemeResource SystemAltMediumHighColor}"/>
+                <SolidColorBrush Color="{ThemeResource SystemAccentColorLight3}"/>
             </Button.Background>
             <Button.Foreground>
                 <SolidColorBrush Color="{ThemeResource SystemChromeAltHighColor}"/>
@@ -50,47 +67,42 @@
         </Button>
 
 
-        <ProgressBar Grid.Column="1" Grid.Row="2" Height="20">
+        <ProgressBar x:Name="progressBar" Grid.Column="1" Grid.Row="2" Height="20">
             <ProgressBar.Background>
                 <SolidColorBrush Color="{ThemeResource SystemColorHighlightTextColor}"/>
             </ProgressBar.Background>
         </ProgressBar>
 
         <StackPanel Grid.Column="2" Orientation="Vertical" Grid.RowSpan="2" Grid.Row="2">
-            <TextBlock Style="{StaticResource SubheaderTextBlockStyle}">
-                <TextBlock.Foreground>
-                    <SolidColorBrush Color="{ThemeResource SystemAltHighColor}"/>
-                </TextBlock.Foreground>
-                <TextBlock.FocusVisualPrimaryBrush>
-                    <SolidColorBrush Color="{ThemeResource SystemChromeAltHighColor}"/>
-                </TextBlock.FocusVisualPrimaryBrush><Run Text="Ich Unikaj"/><LineBreak/><Run/></TextBlock>
-
-            <ContentControl Template="{StaticResource EnemyTemplate}" Content="ContentControl" HorizontalAlignment="Center" VerticalAlignment="Center" >
-                <ContentControl.Foreground>
-                    <SolidColorBrush Color="{ThemeResource SystemChromeAltHighColor}"/>
-                </ContentControl.Foreground>
-            </ContentControl>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Text="Ich Unikaj" TextWrapping="Wrap" Style="{StaticResource SubheaderTextBlockStyle}" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock.Foreground>
+                        <SolidColorBrush Color="{ThemeResource SystemAltHighColor}"/>
+                    </TextBlock.Foreground>
+                </TextBlock>
+                <ContentControl Template="{StaticResource enemyTemplate}" Content="ContentControl"/>
+            </StackPanel>
         </StackPanel>
 
-        <Canvas x:Name="playArea" Grid.Row="1" Grid.ColumnSpan="3">
+        <Canvas x:Name="playArea" Grid.Row="1" Grid.ColumnSpan="3" PointerMoved="playArea_PointerMoved" PointerExited="playArea_PointerExited">
             <Canvas.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black"/>
                     <GradientStop Color="#FFFF6161" Offset="1"/>
                 </LinearGradientBrush>
             </Canvas.Background>
+            <StackPanel x:Name="human" Canvas.Left="0" Orientation="Vertical" Canvas.Top="0" PointerPressed="human_PointerPressed_1">
 
-            <StackPanel x:Name="human" Orientation="Vertical"/>
-
-            <Ellipse Height="25" Width="10">
-                <Ellipse.FocusVisualSecondaryBrush>
-                    <SolidColorBrush Color="{ThemeResource SystemAccentColor}"/>
-                </Ellipse.FocusVisualSecondaryBrush>
-                <Ellipse.Fill>
-                    <SolidColorBrush Color="{ThemeResource SystemAccentColor}"/>
-                </Ellipse.Fill>
-            </Ellipse>
-            <Rectangle Fill="White" Height="100" Width="10" Canvas.Top="25"/>
+                <Ellipse Height="25" Width="10">
+                    <Ellipse.FocusVisualSecondaryBrush>
+                        <SolidColorBrush Color="{ThemeResource SystemAccentColor}"/>
+                    </Ellipse.FocusVisualSecondaryBrush>
+                    <Ellipse.Fill>
+                        <SolidColorBrush Color="{ThemeResource SystemAccentColor}"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <Rectangle Fill="White" Height="36" Width="20"/>
+            </StackPanel>
             <TextBlock x:Name="gameOverText"  
                        Text="Koniec Gry"
                        TextWrapping="Wrap" 
@@ -99,7 +111,7 @@
                        FontFamily="Arial Black" 
                        FontSize="100" Canvas.Left="312" Canvas.Top="220"
                        />
-            <Rectangle Height="50" Canvas.Left="856" Stroke="Black" Canvas.Top="152" Width="50">
+            <Rectangle x:Name="target" Height="50" Canvas.Left="856" Stroke="Black" Canvas.Top="152" Width="50" PointerEntered="target_PointerEntered">
                 <Rectangle.Fill>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <GradientStop Color="Black"/>
@@ -142,9 +154,7 @@
                     <SolidColorBrush Color="{ThemeResource SystemChromeLowColor}"/>
                 </TextBlock.Foreground>
             </TextBlock>
-
             </Grid>
-
              -->
 
 

@@ -30,7 +30,7 @@ namespace MagnesWithCode_exercise_
         private void button1_Click(object sender, RoutedEventArgs e)
         {
 
-            
+            /*
             string result = "";
             int x = 3;
 
@@ -54,12 +54,42 @@ namespace MagnesWithCode_exercise_
                     x = x - 1;
 
                 }
+                */
+
+            string result = "";
 
 
-
+            labelToChange.Text = result;
+            
+            if(enableCheckBox.IsChecked == true)
+            {
+                if(labelToChange.Text == "Z prawej")
+                {
+                    labelToChange.Text = "Z lewej";
+                    labelToChange.HorizontalAlignment = HorizontalAlignment.Left;
+                      
+                }
+                else
+                {
+                    labelToChange.Text = "Z prawej";
+                    labelToChange.HorizontalAlignment = HorizontalAlignment.Right;
+                }
             }
-            label.Text = result;
+            else
+            {
+
+                labelToChange.Text = "Możliwosc zmiany tekstu została wyłączona";
+                labelToChange.HorizontalAlignment = HorizontalAlignment.Center;
+            }
+
+            
+           
+    
+        }
+
+
+
 
         }
     }
-}
+

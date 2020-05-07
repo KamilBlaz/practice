@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp(Exercises).csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp(Exercises).csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb

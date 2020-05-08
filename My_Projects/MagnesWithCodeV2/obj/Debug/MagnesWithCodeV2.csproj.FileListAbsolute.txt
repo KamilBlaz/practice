@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\bin\Debug\MagnesWithCodeV2.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\bin\Debug\MagnesWithCodeV2.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\bin\Debug\MagnesWithCodeV2.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\obj\Debug\MagnesWithCodeV2.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\obj\Debug\MagnesWithCodeV2.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\obj\Debug\MagnesWithCodeV2.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\obj\Debug\MagnesWithCodeV2.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\obj\Debug\MagnesWithCodeV2.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\MagnesWithCodeV2\obj\Debug\MagnesWithCodeV2.pdb

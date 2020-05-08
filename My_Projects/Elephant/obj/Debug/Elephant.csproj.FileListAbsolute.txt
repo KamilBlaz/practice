@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\bin\Debug\Elephant.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\bin\Debug\Elephant.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\bin\Debug\Elephant.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\obj\Debug\Elephant.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\obj\Debug\Elephant.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\obj\Debug\Elephant.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\obj\Debug\Elephant.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\obj\Debug\Elephant.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Elephant\obj\Debug\Elephant.pdb

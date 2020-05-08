@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\obj\Debug\DistanceCalculator.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\obj\Debug\DistanceCalculator.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\obj\Debug\DistanceCalculator.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\obj\Debug\DistanceCalculator.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\DistanceCalculator\obj\Debug\DistanceCalculator.pdb

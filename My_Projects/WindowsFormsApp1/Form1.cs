@@ -17,22 +17,15 @@ namespace WindowsFormsApp1
         int bank = 100;
        
 
-        public void UpdateForm()
-        {
-            joesCashLabel.Text = joe.Name + " ma " + joe.Cash + " zl";
-            bobCashLabel.Text = bob.Name + " ma " + bob.Cash + "zl";
-            bankCashLabel.Text = "Bank ma " + bank + " zl";
-        }
-
+  
         public Form1()
         {
-            InitializeComponent();
-            bob = new Guy() { Cash = 100, Name = "Bob" };
-            joe = new Guy() { Cash = 50, Name = "Joe" };
+           InitializeComponent();
+            // Init objects
+           bob = new Guy() { Cash = 100, Name = "Bob" };
+           joe = new Guy() { Cash = 50, Name = "Joe" };
            
 
-            joe = new Guy();
-            joe.Name = "Joe";
             UpdateForm();
            
         }
@@ -73,6 +66,16 @@ namespace WindowsFormsApp1
 
         }
 
+        public class Echo
+        {
+            public int count = 0;
+            public string Hello()
+            {
+                return "witaaaj....";
+            }
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             int len = Talker.BlahlahBlah(textBox1.Text, (int)numericUpDown1.Value);
@@ -86,15 +89,15 @@ namespace WindowsFormsApp1
             Echo e2 = new Echo();
             int x = 0;
 
-            while(x < 4)
+            while (x < 4)
             {
                 result = result + e1.Hello() + "\n";
                 e1.count = e1.count + 1;
-                if(x == 3)
+                if (x == 3)
                 {
                     e2.count = e2.count + 1;
                 }
-                if(x > 0)
+                if (x > 0)
                 {
 
                     e2.count = e2.count + e1.count;
@@ -107,15 +110,7 @@ namespace WindowsFormsApp1
             MessageBox.Show(result + "Licznik" + e2.count);
 
         }
-        public class Echo
-        {
-            public int count = 0;
-            public string Hello()
-            {
-                return "witaaaj....";
-            }
 
-        }
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -137,5 +132,32 @@ namespace WindowsFormsApp1
             UpdateForm();
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+           
+            bob.ReceiveCash(joe.GiveCash(10));
+            UpdateForm();
+            
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            joe.ReceiveCash(bob.GiveCash(5));
+            UpdateForm();
+
+        }
+
+
+        public void UpdateForm()
+        {
+            joesCashLabel.Text = joe.Name + " ma " + joe.Cash + " zl";
+            bobCashLabel.Text = bob.Name + " ma " + bob.Cash + "zl";
+            bankCashLabel.Text = "Bank ma " + bank + " zl";
+        }
+
+
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\bin\Debug\Lab1.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\obj\Debug\Lab1.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lab1\obj\Debug\Lab1.pdb

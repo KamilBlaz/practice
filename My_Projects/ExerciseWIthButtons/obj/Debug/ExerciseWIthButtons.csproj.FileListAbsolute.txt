@@ -1,0 +1,8 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\ExerciseWIthButtons\bin\Debug\ExerciseWIthButtons.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\ExerciseWIthButtons\bin\Debug\ExerciseWIthButtons.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\ExerciseWIthButtons\bin\Debug\ExerciseWIthButtons.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\ExerciseWIthButtons\obj\Debug\ExerciseWIthButtons.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\ExerciseWIthButtons\obj\Debug\ExerciseWIthButtons.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\ExerciseWIthButtons\obj\Debug\ExerciseWIthButtons.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\ExerciseWIthButtons\obj\Debug\ExerciseWIthButtons.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\ExerciseWIthButtons\obj\Debug\ExerciseWIthButtons.pdb

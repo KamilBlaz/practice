@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\obj\Debug\PlaysLetters.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\obj\Debug\PlaysLetters.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\obj\Debug\PlaysLetters.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\obj\Debug\PlaysLetters.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\bin\Debug\PlaysLetters.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\bin\Debug\PlaysLetters.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\bin\Debug\PlaysLetters.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\obj\Debug\PlaysLetters.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PlaysLetters\obj\Debug\PlaysLetters.pdb

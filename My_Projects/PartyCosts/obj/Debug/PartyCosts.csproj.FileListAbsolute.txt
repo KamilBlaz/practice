@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\obj\Debug\PartyCosts.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\obj\Debug\PartyCosts.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\obj\Debug\PartyCosts.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\obj\Debug\PartyCosts.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\bin\Debug\PartyCosts.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\bin\Debug\PartyCosts.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\bin\Debug\PartyCosts.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\obj\Debug\PartyCosts.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts\obj\Debug\PartyCosts.pdb

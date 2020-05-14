@@ -1,0 +1,6 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Inheritance\obj\Debug\Inheritance.pdb

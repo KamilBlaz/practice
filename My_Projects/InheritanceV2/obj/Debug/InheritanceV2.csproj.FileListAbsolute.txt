@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\bin\Debug\InheritanceV2.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\bin\Debug\InheritanceV2.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\bin\Debug\InheritanceV2.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\obj\Debug\InheritanceV2.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\obj\Debug\InheritanceV2.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\obj\Debug\InheritanceV2.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\obj\Debug\InheritanceV2.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\obj\Debug\InheritanceV2.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\InheritanceV2\obj\Debug\InheritanceV2.pdb

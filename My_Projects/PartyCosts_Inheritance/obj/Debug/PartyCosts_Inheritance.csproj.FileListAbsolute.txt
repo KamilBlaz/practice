@@ -1,0 +1,10 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\bin\Debug\PartyCosts_Inheritance.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\bin\Debug\PartyCosts_Inheritance.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\bin\Debug\PartyCosts_Inheritance.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\obj\Debug\PartyCosts_Inheritance.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\obj\Debug\PartyCosts_Inheritance.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\obj\Debug\PartyCosts_Inheritance.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\obj\Debug\PartyCosts_Inheritance.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\obj\Debug\PartyCosts_Inheritance.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\obj\Debug\PartyCosts.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\PartyCosts_Inheritance\obj\Debug\PartyCosts_Inheritance.Form1.resources

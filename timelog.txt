@@ -15,18 +15,18 @@ Start 2020-05-07 16:00  Koniec 2020-05-07 22:00 - Praca z WindowsForms, Jeden pr
 
 Start 2020-05-08 9:00  Koniec 2020-05-08 17:00  
 
+
 Start 2020-05-11 10:00  Koniec 2020-05-11 18:00 - Aplikacja Zakłady Bukmacherskie
 
 Start 2020-05-12 14:00  Koniec 2020-05-12 22:00 - Dwie aplikacje 
 
-Start 2020-05-13 8:00  Koniec 2020-05-13 16:00 - Zapoznanie z hermetyzacja i konstruktorem (cwiczenia) , Przekształcenie programu PartyCosts na zhermetyzowany i dodanie nowej klasy.
+Start 2020-05-13 8:00   Koniec 2020-05-13 16:00 - Zapoznanie z hermetyzacja i konstruktorem (cwiczenia) , Przekształcenie programu PartyCosts na zhermetyzowany i dodanie nowej klasy.
 
 
-Start 2020-05-14 9:00  Koniec 2020-05-14 17:00 - Dziedziczenie
+Start 2020-05-14 9:00   Koniec 2020-05-14 17:00 - Dziedziczenie 
+
+Start 2020-05-15 12:00   Koniec 2020-05-15 20:00 - Interfejsy , abstrakcja , poprawa apki z Ulem
 
 
-Start 2020-05-08 9:00  Koniec 2020-05-08 17:00 
-
-Start 2020-05-11 10:00  Koniec 2020-05-11 18:00 - Aplikacja Zakłady Bukmacherskie
 
 

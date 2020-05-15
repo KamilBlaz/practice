@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\bin\Debug\Build_House.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\bin\Debug\Build_House.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\bin\Debug\Build_House.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\obj\Debug\Build_House.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\obj\Debug\House_Build.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\obj\Debug\Build_House.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\obj\Debug\Build_House.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\obj\Debug\Build_House.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Build_House\obj\Debug\Build_House.pdb

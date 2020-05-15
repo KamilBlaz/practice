@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace HiveManagement
 {
-    class Queen
+    class Queen : Bee
     {
         private Workers[] workers;
         private int shiftNumber = 0;
-        public Queen(Workers[] workers){
+        public Queen(Workers[] workers, double weightMg):base(weightMg){
             this.workers = workers;
         }
         public bool AssignWork(string job, int numberOfShifts){
@@ -21,10 +21,12 @@ namespace HiveManagement
         }
 
         public string WorkTheNextShift(){
+            double honeyConsumed = HoneyConsumptonRate();
             shiftNumber++;
             string report = "Raport zmiany numer " + shiftNumber + "\r\n";
             for(int i = 0; i < workers.Length; i++)
             {
+                honeyConsumed += workers[i].HoneyConsumptonRate();
                 if (workers[i].DidYouFinish())
                     report += "Robotnica numer " + (i + 1) + " zakończyła swoje zadanie \r\n";
                 if (String.IsNullOrEmpty(workers[i].CurrentJob))
@@ -36,6 +38,7 @@ namespace HiveManagement
                     report += " Robotnica numer " + (i + 1) + " zakonczy '" + workers[i].CurrentJob + "' po tej zmianie \r\n";
 
             }
+            report += "Całkowite spożycie miodu: " + honeyConsumed + "jednostek \r\n";
             return report;
 
         }

@@ -1,0 +1,6 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\RandomSetOfCards\bin\Debug\RandomSetOfCards.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\RandomSetOfCards\bin\Debug\RandomSetOfCards.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\RandomSetOfCards\bin\Debug\RandomSetOfCards.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\RandomSetOfCards\obj\Debug\RandomSetOfCards.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\RandomSetOfCards\obj\Debug\RandomSetOfCards.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\RandomSetOfCards\obj\Debug\RandomSetOfCards.pdb

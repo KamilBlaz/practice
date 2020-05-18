@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\bin\Debug\TwoDecks.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\bin\Debug\TwoDecks.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\bin\Debug\TwoDecks.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\obj\Debug\TwoDecks.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\obj\Debug\TwoDecks.TwoDecks.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\obj\Debug\TwoDecks.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\obj\Debug\TwoDecks.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\obj\Debug\TwoDecks.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\TwoDecks\obj\Debug\TwoDecks.pdb

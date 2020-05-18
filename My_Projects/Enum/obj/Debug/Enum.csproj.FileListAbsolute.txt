@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\bin\Debug\Enum.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\bin\Debug\Enum.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\bin\Debug\Enum.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\obj\Debug\Enum.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\obj\Debug\Enum.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\obj\Debug\Enum.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\obj\Debug\Enum.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Enum\obj\Debug\Enum.pdb

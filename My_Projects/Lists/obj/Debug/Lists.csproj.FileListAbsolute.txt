@@ -1,0 +1,6 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lists\bin\Debug\Lists.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lists\bin\Debug\Lists.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lists\bin\Debug\Lists.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lists\obj\Debug\Lists.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Lists\obj\Debug\Lists.pdb

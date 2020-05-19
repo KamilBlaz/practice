@@ -23,3 +23,7 @@ Start 2020-05-13 8:00   Koniec 2020-05-13 16:00 - Zapoznanie z hermetyzacja i ko
 Start 2020-05-14 9:00   Koniec 2020-05-14 17:00 - Dziedziczenie 
 
 Start 2020-05-15 12:00   Koniec 2020-05-15 20:00 - Interfejsy , abstrakcja , poprawa apki z Ulem
+
+Start 2020-05-18 9:00   Koniec 2020-05-18 17:00 - Typy wyliczenoiwe, Listy, - ćwiczenia plus aplikacje
+
+Start 2020-05-19 9:00   Koniec 2020-05-19 17:00 - Aplikacja idz na ryby , stos i kolejka

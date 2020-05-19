@@ -1,0 +1,7 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\StackAndQueue\bin\Debug\StackAndQueue.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\StackAndQueue\bin\Debug\StackAndQueue.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\StackAndQueue\obj\Debug\StackAndQueue.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\StackAndQueue\obj\Debug\StackAndQueue.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\StackAndQueue\obj\Debug\StackAndQueue.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\StackAndQueue\obj\Debug\StackAndQueue.pdb

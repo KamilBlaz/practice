@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\obj\Debug\Dictoniary.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\obj\Debug\Dictoniary.Form1.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\obj\Debug\Dictoniary.Properties.Resources.resources
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\obj\Debug\Dictoniary.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\bin\Debug\Dictoniary.exe.config
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\bin\Debug\Dictoniary.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\bin\Debug\Dictoniary.pdb
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\obj\Debug\Dictoniary.exe
+C:\Users\Kamil\Documents\GitHub\practice\My_Projects\Dictoniary\obj\Debug\Dictoniary.pdb

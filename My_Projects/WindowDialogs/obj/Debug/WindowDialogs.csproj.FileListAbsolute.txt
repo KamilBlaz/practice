@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\bin\Debug\WindowDialogs.exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\bin\Debug\WindowDialogs.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\bin\Debug\WindowDialogs.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\obj\Debug\WindowDialogs.Form1.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\obj\Debug\WindowDialogs.Properties.Resources.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\obj\Debug\WindowDialogs.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\obj\Debug\WindowDialogs.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\obj\Debug\WindowDialogs.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\WindowDialogs\obj\Debug\WindowDialogs.pdb

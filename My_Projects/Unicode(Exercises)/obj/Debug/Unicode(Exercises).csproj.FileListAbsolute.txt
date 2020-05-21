@@ -1,0 +1,10 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\bin\Debug\Unicode(Exercises).exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\bin\Debug\Unicode(Exercises).exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\bin\Debug\Unicode(Exercises).pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\obj\Debug\Unicode(Exercises).csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\obj\Debug\Unicode_Exercises_.Form1.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\obj\Debug\Unicode_Exercises_.Properties.Resources.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\obj\Debug\Unicode(Exercises).csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\obj\Debug\Unicode(Exercises).csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\obj\Debug\Unicode(Exercises).exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Unicode(Exercises)\obj\Debug\Unicode(Exercises).pdb

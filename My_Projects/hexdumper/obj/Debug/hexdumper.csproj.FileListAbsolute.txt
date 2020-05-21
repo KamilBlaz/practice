@@ -1,0 +1,7 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\hexdumper\bin\Debug\hexdumper.exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\hexdumper\bin\Debug\hexdumper.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\hexdumper\bin\Debug\hexdumper.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\hexdumper\obj\Debug\hexdumper.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\hexdumper\obj\Debug\hexdumper.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\hexdumper\obj\Debug\hexdumper.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\hexdumper\obj\Debug\hexdumper.pdb

@@ -34,6 +34,10 @@ Start 2020-05-19 9:00   Koniec 2020-05-19 17:00 - Aplikacja idz na ryby , stos i
 Start 2020-05-20 12:00   Koniec 2020-05-20 20:00 -  Strumienie w c#, cwiczenia i aplikacja
 
 
+Start 2020-05-21 10:00   Koniec 2020-05-21 18:00 - Rozpoczecie aplikacij Wyprawa,praca z plikami binarnymi, unicode cwiczenia
+
+
+
 
 
 

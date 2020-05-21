@@ -1,0 +1,10 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\bin\Debug\Serialization(JoeAndBob).exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\bin\Debug\Serialization(JoeAndBob).exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\bin\Debug\Serialization(JoeAndBob).pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\obj\Debug\Serialization(JoeAndBob).csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\obj\Debug\JoeAndBob.Form1.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\obj\Debug\JoeAndBob.Properties.Resources.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\obj\Debug\Serialization(JoeAndBob).csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\obj\Debug\Serialization(JoeAndBob).csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\obj\Debug\Serialization(JoeAndBob).exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Serialization(JoeAndBob)\obj\Debug\Serialization(JoeAndBob).pdb

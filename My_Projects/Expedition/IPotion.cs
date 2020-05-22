@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Expedition
 {
-    class Point
+    interface IPotion
     {
+        bool Used { get; }
     }
 }

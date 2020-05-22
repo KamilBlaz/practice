@@ -1,0 +1,10 @@
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\obj\Debug\Expedition.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\obj\Debug\Expedition.Properties.Resources.resources
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\obj\Debug\Expedition.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\obj\Debug\Expedition.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\bin\Debug\Expedition.exe.config
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\bin\Debug\Expedition.exe
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\bin\Debug\Expedition.pdb
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\obj\Debug\Expedition.Form1.resources
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\obj\Debug\Expedition.exe
+C:\Users\Kamil\Desktop\thequestlab\sourceCode\thequestlab\The Quest\obj\Debug\Expedition.pdb

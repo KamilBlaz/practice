@@ -36,6 +36,7 @@ Start 2020-05-20 12:00   Koniec 2020-05-20 20:00 -  Strumienie w c#, cwiczenia i
 
 Start 2020-05-21 10:00   Koniec 2020-05-21 18:00 - Rozpoczecie aplikacij Wyprawa,praca z plikami binarnymi, unicode cwiczenia
 
+Start 2020-05-22 8:00   Koniec 2020-05-22 17:00 - lab 2 wyprawa 
 
 
 

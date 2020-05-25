@@ -3,7 +3,6 @@ Start 2020-04-27 16:00  Koniec 2020-04-27 20:00 - Zaczalem od zapoznania sie z c
 Start 2020-04-28 11:50  Koniec 2020-04-28 16:50 - Opracowanie takich zagadnien jak retencja plikow,backupy(pelne,przyrostowe,roznicowe) ,wykonywanie backupow na prawach uzykownika 
                                                   ,zmienne systemowe ,harmonogram (systemowy oraz aplikacij (xopero software) oraz pliki ukryte.
  
-
 Start 2020-04-29 12:00  Koniec 2020-04-29 18:00 - Opracowałem ostatnich 6 zagadnień z części pierwszej oraz zacząłem  drugą część teoretyczną
 
 Start 2020-05-05 12:00  Koniec 2020-05-05 18:00 - Aplikacja C# ratuj ludzi
@@ -12,9 +11,7 @@ Start 2020-05-06 12:00  Koniec 2020-05-06 18:00 - Ćwiczenia debugowanie/sprawdz
 
 Start 2020-05-07 16:00  Koniec 2020-05-07 22:00 - Praca z WindowsForms, Jeden projekt zrobiłem na WPF i naprawiłem repo na gicie
 
-
-Start 2020-05-08 9:00  Koniec 2020-05-08 17:00  
-
+Start 2020-05-08 9:00   Koniec 2020-05-08 17:00  
 
 Start 2020-05-11 10:00  Koniec 2020-05-11 18:00 - Aplikacja Zakłady Bukmacherskie
 
@@ -22,21 +19,21 @@ Start 2020-05-12 14:00  Koniec 2020-05-12 22:00 - Dwie aplikacje
 
 Start 2020-05-13 8:00   Koniec 2020-05-13 16:00 - Zapoznanie z hermetyzacja i konstruktorem (cwiczenia) , Przekształcenie programu PartyCosts na zhermetyzowany i dodanie nowej klasy.
 
-
 Start 2020-05-14 9:00   Koniec 2020-05-14 17:00 - Dziedziczenie 
 
-Start 2020-05-15 12:00   Koniec 2020-05-15 20:00 - Interfejsy , abstrakcja , poprawa apki z Ulem
+Start 2020-05-15 12:00  Koniec 2020-05-15 20:00 - Interfejsy , abstrakcja , poprawa apki z Ulem
 
 Start 2020-05-18 9:00   Koniec 2020-05-18 17:00 - Typy wyliczenoiwe, Listy, - ćwiczenia plus aplikacje
 
 Start 2020-05-19 9:00   Koniec 2020-05-19 17:00 - Aplikacja idz na ryby , stos i kolejka
 
-Start 2020-05-20 12:00   Koniec 2020-05-20 20:00 -  Strumienie w c#, cwiczenia i aplikacja
+Start 2020-05-20 12:00  Koniec 2020-05-20 20:00 -  Strumienie w c#, cwiczenia i aplikacja
 
-
-Start 2020-05-21 10:00   Koniec 2020-05-21 18:00 - Rozpoczecie aplikacij Wyprawa,praca z plikami binarnymi, unicode cwiczenia
+Start 2020-05-21 10:00  Koniec 2020-05-21 18:00 - Rozpoczecie aplikacij Wyprawa,praca z plikami binarnymi, unicode cwiczenia
 
 Start 2020-05-22 8:00   Koniec 2020-05-22 17:00 - lab 2 wyprawa 
+
+Start 2020-05-25 14:00  Koniec 2020-05-25 22:00 - Wprowdzenie do XAML.Analiza aplikacij Save_People + prosta apka z wyliczaniem dnia 
 
 
 

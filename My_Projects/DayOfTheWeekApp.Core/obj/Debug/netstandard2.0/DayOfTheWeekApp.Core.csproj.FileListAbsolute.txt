@@ -1,0 +1,9 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\bin\Debug\netstandard2.0\DayOfTheWeekApp.Core.deps.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\bin\Debug\netstandard2.0\DayOfTheWeekApp.Core.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\bin\Debug\netstandard2.0\DayOfTheWeekApp.Core.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.AssemblyInfo.cs
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.pdb

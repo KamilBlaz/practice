@@ -119,6 +119,14 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Classes\Card.cs" />
+    <Compile Include="Classes\CardComparer_Suit.cs" />
+    <Compile Include="Classes\CardComparer_Value.cs" />
+    <Compile Include="Classes\Deck.cs" />
+    <Compile Include="Classes\Game.cs" />
+    <Compile Include="Classes\Player.cs" />
+    <Compile Include="Classes\Suits.cs" />
+    <Compile Include="Classes\Values.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -154,9 +162,7 @@
       <Version>6.2.9</Version>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Classes\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

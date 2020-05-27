@@ -1,0 +1,13 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\bin\Debug\netcoreapp3.1\MagnesWithExepction.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\bin\Debug\netcoreapp3.1\MagnesWithExepction.deps.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\bin\Debug\netcoreapp3.1\MagnesWithExepction.runtimeconfig.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\bin\Debug\netcoreapp3.1\MagnesWithExepction.runtimeconfig.dev.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\bin\Debug\netcoreapp3.1\MagnesWithExepction.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\bin\Debug\netcoreapp3.1\MagnesWithExepction.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\obj\Debug\netcoreapp3.1\MagnesWithExepction.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\obj\Debug\netcoreapp3.1\MagnesWithExepction.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\obj\Debug\netcoreapp3.1\MagnesWithExepction.AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\obj\Debug\netcoreapp3.1\MagnesWithExepction.AssemblyInfo.cs
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\obj\Debug\netcoreapp3.1\MagnesWithExepction.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\obj\Debug\netcoreapp3.1\MagnesWithExepction.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\MagnesWithExepction\obj\Debug\netcoreapp3.1\MagnesWithExepction.genruntimeconfig.cache

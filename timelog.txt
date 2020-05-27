@@ -35,7 +35,7 @@ Start 2020-05-22 8:00   Koniec 2020-05-22 17:00 - lab 2 wyprawa
 
 Start 2020-05-25 14:00  Koniec 2020-05-25 22:00 - Wprowdzenie do XAML.Analiza aplikacij Save_People + prosta apka z wyliczaniem dnia 
 
+Start 2020-05-26 15:00 Koniec 2020-05-26 23:00 - Await/Async troche XAML.Dodatkowo krótki filmik o await/sync na youtube.
 
-
-
+Start 2020-05-27 15:00 Koniec 2020-05-27 23:00  - Wyjatki, aplikacja (await async)
 

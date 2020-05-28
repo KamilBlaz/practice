@@ -39,3 +39,6 @@ Start 2020-05-26 15:00 Koniec 2020-05-26 23:00 - Await/Async troche XAML.Dodatko
 
 Start 2020-05-27 15:00 Koniec 2020-05-27 23:00  - Wyjatki, aplikacja (await async)
 
+
+Start 2020-05-28 16:00 Koniec 2020-05-28 22:00 - LINQ wprowadzenie pare apilkacij (problem z ostatnia, niektórych rzeczy nie mogłem znalezc ze względu na wersje VS)
+

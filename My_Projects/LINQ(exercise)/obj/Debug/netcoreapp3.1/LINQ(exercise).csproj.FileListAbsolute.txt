@@ -1,0 +1,12 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\bin\Debug\netcoreapp3.1\LINQ(exercise).exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\bin\Debug\netcoreapp3.1\LINQ(exercise).deps.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\bin\Debug\netcoreapp3.1\LINQ(exercise).runtimeconfig.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\bin\Debug\netcoreapp3.1\LINQ(exercise).runtimeconfig.dev.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\bin\Debug\netcoreapp3.1\LINQ(exercise).dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\bin\Debug\netcoreapp3.1\LINQ(exercise).pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\obj\Debug\netcoreapp3.1\LINQ(exercise).csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\obj\Debug\netcoreapp3.1\LINQ(exercise).AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\obj\Debug\netcoreapp3.1\LINQ(exercise).AssemblyInfo.cs
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\obj\Debug\netcoreapp3.1\LINQ(exercise).dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\obj\Debug\netcoreapp3.1\LINQ(exercise).pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercise)\obj\Debug\netcoreapp3.1\LINQ(exercise).genruntimeconfig.cache

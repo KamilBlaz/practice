@@ -1,0 +1,12 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\obj\Debug\netcoreapp3.1\LINQ(exercisev2).csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\obj\Debug\netcoreapp3.1\LINQ(exercisev2).AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\obj\Debug\netcoreapp3.1\LINQ(exercisev2).AssemblyInfo.cs
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\bin\Debug\netcoreapp3.1\LINQ(exercisev2).exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\bin\Debug\netcoreapp3.1\LINQ(exercisev2).deps.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\bin\Debug\netcoreapp3.1\LINQ(exercisev2).runtimeconfig.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\bin\Debug\netcoreapp3.1\LINQ(exercisev2).runtimeconfig.dev.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\bin\Debug\netcoreapp3.1\LINQ(exercisev2).dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\bin\Debug\netcoreapp3.1\LINQ(exercisev2).pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\obj\Debug\netcoreapp3.1\LINQ(exercisev2).dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\obj\Debug\netcoreapp3.1\LINQ(exercisev2).pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\LINQ(exercisev2)\obj\Debug\netcoreapp3.1\LINQ(exercisev2).genruntimeconfig.cache

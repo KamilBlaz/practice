@@ -1,0 +1,7 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\OdpornyFacet\OdpornyFacet\bin\Debug\RobustGuy.exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\OdpornyFacet\OdpornyFacet\bin\Debug\RobustGuy.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\OdpornyFacet\OdpornyFacet\bin\Debug\RobustGuy.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\OdpornyFacet\OdpornyFacet\obj\Debug\OdpornyFacet.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\OdpornyFacet\OdpornyFacet\obj\Debug\OdpornyFacet.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\OdpornyFacet\OdpornyFacet\obj\Debug\RobustGuy.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\OdpornyFacet\OdpornyFacet\obj\Debug\RobustGuy.pdb

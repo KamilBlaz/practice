@@ -1,0 +1,13 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\bin\Debug\netcoreapp3.1\Delagtesv2.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\bin\Debug\netcoreapp3.1\Delagtesv2.deps.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\bin\Debug\netcoreapp3.1\Delagtesv2.runtimeconfig.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\bin\Debug\netcoreapp3.1\Delagtesv2.runtimeconfig.dev.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\bin\Debug\netcoreapp3.1\Delagtesv2.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\bin\Debug\netcoreapp3.1\Delagtesv2.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\obj\Debug\netcoreapp3.1\Delagtesv2.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\obj\Debug\netcoreapp3.1\Delagtesv2.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\obj\Debug\netcoreapp3.1\Delagtesv2.AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\obj\Debug\netcoreapp3.1\Delagtesv2.AssemblyInfo.cs
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\obj\Debug\netcoreapp3.1\Delagtesv2.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\obj\Debug\netcoreapp3.1\Delagtesv2.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delagtesv2\obj\Debug\netcoreapp3.1\Delagtesv2.genruntimeconfig.cache

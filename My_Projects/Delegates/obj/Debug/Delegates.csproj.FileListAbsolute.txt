@@ -1,0 +1,10 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\bin\Debug\Delegates.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\obj\Debug\Delegates.Form1.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\obj\Debug\Delegates.Properties.Resources.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\obj\Debug\Delegates.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\obj\Debug\Delegates.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Delegates\obj\Debug\Delegates.pdb

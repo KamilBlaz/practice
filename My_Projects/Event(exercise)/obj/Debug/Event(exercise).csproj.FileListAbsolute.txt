@@ -1,0 +1,10 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\bin\Debug\Event(exercise).exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\bin\Debug\Event(exercise).exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\bin\Debug\Event(exercise).pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\obj\Debug\Event(exercise).csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\obj\Debug\Event_exercise_.Form1.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\obj\Debug\Event_exercise_.Properties.Resources.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\obj\Debug\Event(exercise).csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\obj\Debug\Event(exercise).csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\obj\Debug\Event(exercise).exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\Event(exercise)\obj\Debug\Event(exercise).pdb

@@ -46,3 +46,5 @@ Start 2020-05-29 13:30 Koniec 2020-05-29 21:30 - Zapoznanie się z delegatami, d
 Start 2020-05-30 21:00 Koniec 2020-05-30 0:00 - Tworzenie WEB Api
 
 Start 2020-06-01 13:00 Koniec 2020-06-01 21:00 - Zapoznanie się ze zdarzeniami 
+
+ Start 2020-06-02 16:00 Koniec 2020-06-02 00:00 - Zapoznanie się ze wzorcem Model Widok ModelWidoku, apki w WPF

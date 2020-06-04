@@ -50,3 +50,5 @@ Start 2020-06-01 13:00 Koniec 2020-06-01 21:00 - Zapoznanie się ze zdarzeniami
  Start 2020-06-02 16:00 Koniec 2020-06-02 00:00 - Zapoznanie się ze wzorcem Model Widok ModelWidoku, apki w WPF
 
 Start 2020-06-03 16:00 Koniec 2020-06-03 00:00 - dwa stopery w mvvm
+
+Start 2020-06-04 8:00 Koniec 2020-06-04 16:00 - aplikacja KomiksyJanka(niedokończona)  

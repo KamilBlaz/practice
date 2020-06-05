@@ -1,0 +1,12 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\bin\Debug\netcoreapp3.1\ExtendedMann.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\bin\Debug\netcoreapp3.1\ExtendedMann.deps.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\bin\Debug\netcoreapp3.1\ExtendedMann.runtimeconfig.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\bin\Debug\netcoreapp3.1\ExtendedMann.runtimeconfig.dev.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\bin\Debug\netcoreapp3.1\ExtendedMann.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\bin\Debug\netcoreapp3.1\ExtendedMann.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\obj\Debug\netcoreapp3.1\ExtendedMann.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\obj\Debug\netcoreapp3.1\ExtendedMann.AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\obj\Debug\netcoreapp3.1\ExtendedMann.AssemblyInfo.cs
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\obj\Debug\netcoreapp3.1\ExtendedMann.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\obj\Debug\netcoreapp3.1\ExtendedMann.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\ExtendedMann\obj\Debug\netcoreapp3.1\ExtendedMann.genruntimeconfig.cache

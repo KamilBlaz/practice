@@ -1,0 +1,13 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\bin\Debug\netcoreapp3.1\DogAndCaniness.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\bin\Debug\netcoreapp3.1\DogAndCaniness.deps.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\bin\Debug\netcoreapp3.1\DogAndCaniness.runtimeconfig.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\bin\Debug\netcoreapp3.1\DogAndCaniness.runtimeconfig.dev.json
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\bin\Debug\netcoreapp3.1\DogAndCaniness.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\bin\Debug\netcoreapp3.1\DogAndCaniness.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\obj\Debug\netcoreapp3.1\DogAndCaniness.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\obj\Debug\netcoreapp3.1\DogAndCaniness.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\obj\Debug\netcoreapp3.1\DogAndCaniness.AssemblyInfoInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\obj\Debug\netcoreapp3.1\DogAndCaniness.AssemblyInfo.cs
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\obj\Debug\netcoreapp3.1\DogAndCaniness.dll
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\obj\Debug\netcoreapp3.1\DogAndCaniness.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\DogAndCaniness\obj\Debug\netcoreapp3.1\DogAndCaniness.genruntimeconfig.cache

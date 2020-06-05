@@ -1,0 +1,10 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\bin\Debug\EmptyValueReferences.exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\bin\Debug\EmptyValueReferences.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\bin\Debug\EmptyValueReferences.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\obj\Debug\EmptyValueReferences.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\obj\Debug\EmptyValueReferences.Form1.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\obj\Debug\EmptyValueReferences.Properties.Resources.resources
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\obj\Debug\EmptyValueReferences.csproj.GenerateResource.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\obj\Debug\EmptyValueReferences.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\obj\Debug\EmptyValueReferences.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\EmptyValueReferences\obj\Debug\EmptyValueReferences.pdb

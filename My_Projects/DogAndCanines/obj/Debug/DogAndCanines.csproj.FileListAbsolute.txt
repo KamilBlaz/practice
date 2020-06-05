@@ -1,0 +1,6 @@
+C:\Users\Kamil\Documents\Github\practice\My_Projects\PiesIPsowate\bin\Debug\DogAndCanine.exe.config
+C:\Users\Kamil\Documents\Github\practice\My_Projects\PiesIPsowate\bin\Debug\DogAndCanine.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\PiesIPsowate\bin\Debug\DogAndCanine.pdb
+C:\Users\Kamil\Documents\Github\practice\My_Projects\PiesIPsowate\obj\Debug\DogAndCanines.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Github\practice\My_Projects\PiesIPsowate\obj\Debug\DogAndCanine.exe
+C:\Users\Kamil\Documents\Github\practice\My_Projects\PiesIPsowate\obj\Debug\DogAndCanine.pdb

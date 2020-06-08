@@ -54,3 +54,5 @@ Start 2020-06-03 16:00 Koniec 2020-06-03 00:00 - dwa stopery w mvvm
 Start 2020-06-04 8:00 Koniec 2020-06-04 16:00 - aplikacja KomiksyJanka(niedokończona)  
 
 Start 2020-06-05 15:00  Koniec 2020-06-05 23:00 - wartosci a referencje dodatkowo aplikacje  ktorych nie dodalem a  musze je przerobic na WPF
+
+Start 2020-06-08 14:00  Koniec 2020-06-08 22:00 - zaczalem aplikacje Invaders ( ostatnie lab), przygotowanie modelu 

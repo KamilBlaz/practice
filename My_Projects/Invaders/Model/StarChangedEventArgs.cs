@@ -15,7 +15,7 @@ namespace Invaders.Model
 
         public StarChangedEventArgs(Point point, bool disappeared){
             Point = point;
-            Disapperated = disappeared;
+            Disapperated = disappeared; 
 
         }
 
